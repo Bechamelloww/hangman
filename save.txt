@@ -1,0 +1,1 @@
+{"Word":[95,111,95,95,95],"ToFind":[112,111,114,116,101],"Attempts":2,"HangmanPositions":["","","","","","","","","",""],"History":"aswdf","Difficulty":"Tous les mots"}
